@@ -33,6 +33,34 @@ CONTRIBUTION, OR OTHER SIMILAR COSTS, WHETHER ASSERTED ON THE
 BASIS OF CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF
 WARRANTY, OR OTHERWISE.
 
+# Citation
+
+If you use this YoctoWatt developed C++ code for measurements in a scientific work, please cite the paper as:
+
+```
+R. Shirkhani, S. Maxenti, L. Bonati, N. Mohamadi, M. Elkael, U. Hashmi, J. Mitra, M. Polese, T. Melodia, S. D'Oro, "TENORAN: Automating Fine-grained Energy Efficiency Profiling in Open RAN Systems," in Proceedings of IEEE INFOCOM Workshop on Next-generation Open and Programmable Radio Access Networks (NG-OPERA), Tokyo, Japan, May 2026
+```
+
+**BibTeX:**
+```bibtex
+@inproceedings{shirkhani2026tenoran,
+  author = {Shirkhani, Ravis and Maxenti, Stefano and Bonati, Leonardo and Mohamadi, Niloofar and Elkael, Maxime and Hashmi, Umair and Mitra, Jeebak and Polese, Michele and Melodia, Tommaso and D'Oro, Salvatore},
+  title = {{TENORAN}: Automating Fine-grained Energy Efficiency Profiling in Open {RAN} Systems},
+  booktitle = {Proceedings of IEEE INFOCOM Workshop on Next-generation Open and Programmable Radio Access Networks (NG-OPERA)},
+  year = {2026},
+  month = may,
+  address = {Tokyo, Japan},
+  pages = {[To be assigned]},
+  doi = {[To be assigned]},
+  url = {[To be assigned]}
+}
+```
+
+**PDF**: [Link to paper PDF]
+
+---
+
+
 ## Features
 
 - **High-speed measurements**: Continuous power monitoring with minimal latency
