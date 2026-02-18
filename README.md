@@ -43,20 +43,18 @@ R. Shirkhani, S. Maxenti, L. Bonati, N. Mohamadi, M. Elkael, U. Hashmi, J. Mitra
 
 **BibTeX:**
 ```bibtex
-@inproceedings{shirkhani2026tenoran,
-  author = {Shirkhani, Ravis and Maxenti, Stefano and Bonati, Leonardo and Mohamadi, Niloofar and Elkael, Maxime and Hashmi, Umair and Mitra, Jeebak and Polese, Michele and Melodia, Tommaso and D'Oro, Salvatore},
-  title = {{TENORAN}: Automating Fine-grained Energy Efficiency Profiling in Open {RAN} Systems},
-  booktitle = {Proceedings of IEEE INFOCOM Workshop on Next-generation Open and Programmable Radio Access Networks (NG-OPERA)},
-  year = {2026},
-  month = may,
-  address = {Tokyo, Japan},
-  pages = {[To be assigned]},
-  doi = {[To be assigned]},
-  url = {[To be assigned]}
+@misc{shirkhani2026tenoranautomatingfinegrainedenergy,
+      title={TENORAN: Automating Fine-grained Energy Efficiency Profiling in Open RAN Systems}, 
+      author={Ravis Shirkhani and Stefano Maxenti and Leonardo Bonati and Niloofar Mohamadi and Maxime Elkael and Umair Hashmi and Jeebak Mitra and Michele Polese and Tommaso Melodia and Salvatore D'Oro},
+      year={2026},
+      eprint={2602.13085},
+      archivePrefix={arXiv},
+      primaryClass={cs.NI},
+      url={https://arxiv.org/abs/2602.13085}, 
 }
 ```
 
-**PDF**: [Link to paper PDF]
+**PDF**: [https://arxiv.org/pdf/2602.13085]
 
 ---
 
